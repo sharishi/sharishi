@@ -85,5 +85,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
+  <hr>
+<div align="center">
+  <p>Coding activity table:</p>
+    <img src="https://wakatime.com/share/@018c74c7-6452-457a-92ce-374327e5bb7e/65fb84a4-5a2e-4b4b-ac51-cb21a4724f81.svg" height="130">
+</div>
 
 ###
