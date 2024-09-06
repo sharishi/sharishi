@@ -3,9 +3,6 @@
 ###
 
 <div align="center">
-  <a href="mailto:trebis.victoria@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="54" height="38" alt="gmail logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/victoria-trebis-0903312b7/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="54" height="38" alt="linkedin logo"  />
   </a>
@@ -14,6 +11,9 @@
   </a>
   <a href="https://t.me/jandsup" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="54" height="38" alt="telegram logo"  />
+  </a>
+  <a href="mailto:trebis.victoria@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="54" height="38" alt="gmail logo"  />
   </a>
 </div>
 
