@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm a data scientist, ML engineer, wannabe hacker, and many things in between. You can define me as an information and math enthusiast, driven by the belief that  science is the key to our future😄<br>In my free time, I enjoy reading, playing piano, and volleyball.</p>
+<p align="left">I'm a data scientist, ML engineer, wannabe hacker, and many things in between. You can define me as an information and math enthusiast, driven by the belief that  science is the key to our future😄<br>In my free time, I enjoy reading, playing the piano and volleyball.</p>
 
 ###
 
